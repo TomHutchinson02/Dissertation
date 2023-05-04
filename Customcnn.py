@@ -28,7 +28,7 @@ sys.modules['Image'] = Image
 
 
 target_size = 64,64
-Batch_size = 128
+Batch_size = 64
 learning_rate = 0.003
 epochs = 170
 SEED = 12
